@@ -1,6 +1,6 @@
-public class Arithmeticadd {
+public class Arithmeticoperations {
     int num1,num2;
-    Arithmeticadd(int num1,int num2)
+    Arithmeticoperations(int num1, int num2)
     {
         this.num1=num1;
         this.num2=num2;
